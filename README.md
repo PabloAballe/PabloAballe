@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning how to improve my actuals skills.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me 
-- You can reach me on pablo970616@gmail.com and on my personal website (https://www.pabloaballe.dev)[https://www.pabloaballe.dev]
+- You can reach me on pablo970616@gmail.com and on my personal website https://www.pabloaballe.dev
 
